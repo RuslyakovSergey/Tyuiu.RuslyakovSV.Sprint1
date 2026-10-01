@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib.csproj",
+        "projectName": "Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib",
+        "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib.csproj",
+        "packagesPath": "/Users/sergejruslakov/.nuget/packages/",
+        "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergejruslakov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.424/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test.csproj",
+        "projectName": "Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test",
+        "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test.csproj",
+        "packagesPath": "/Users/sergejruslakov/.nuget/packages/",
+        "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergejruslakov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib.csproj": {
+                "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib.csproj"
+              },
+              "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.csproj": {
+                "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.424/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.csproj",
+        "projectName": "Tyuiu.RuslyakovSV.Sprint1.Task0.V0",
+        "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.csproj",
+        "packagesPath": "/Users/sergejruslakov/.nuget/packages/",
+        "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergejruslakov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib.csproj": {
+                "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V0.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.424/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
