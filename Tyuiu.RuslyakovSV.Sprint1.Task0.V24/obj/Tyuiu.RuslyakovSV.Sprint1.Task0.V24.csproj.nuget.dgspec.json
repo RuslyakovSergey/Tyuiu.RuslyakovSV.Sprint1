@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj": {}
+    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj": {}
   },
   "projects": {
-    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj": {
+    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj",
+        "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj",
         "projectName": "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib",
-        "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj",
+        "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj",
         "packagesPath": "/Users/sergejruslakov/.nuget/packages/",
-        "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/obj/",
+        "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sergejruslakov/.nuget/NuGet/NuGet.Config"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -42,7 +41,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -64,14 +62,14 @@
         }
       }
     },
-    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj": {
+    "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj",
+        "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj",
         "projectName": "Tyuiu.RuslyakovSV.Sprint1.Task0.V24",
-        "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj",
+        "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj",
         "packagesPath": "/Users/sergejruslakov/.nuget/packages/",
-        "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/obj/",
+        "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sergejruslakov/.nuget/NuGet/NuGet.Config"
@@ -84,11 +82,10 @@
         },
         "frameworks": {
           "net8.0": {
-            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj": {
-                "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj"
+              "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj": {
+                "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj"
               }
             }
           }
@@ -106,7 +103,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",

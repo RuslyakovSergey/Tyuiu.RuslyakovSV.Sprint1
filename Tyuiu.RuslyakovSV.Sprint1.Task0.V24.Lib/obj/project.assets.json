@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj",
+      "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj",
       "projectName": "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib",
-      "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj",
+      "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj",
       "packagesPath": "/Users/sergejruslakov/.nuget/packages/",
-      "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/obj/",
+      "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sergejruslakov/.nuget/NuGet/NuGet.Config"

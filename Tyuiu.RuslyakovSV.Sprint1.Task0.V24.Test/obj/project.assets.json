@@ -1523,11 +1523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test.csproj",
+      "projectUniqueName": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test.csproj",
       "projectName": "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test",
-      "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test.csproj",
+      "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test.csproj",
       "packagesPath": "/Users/sergejruslakov/.nuget/packages/",
-      "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test/obj/",
+      "outputPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sergejruslakov/.nuget/NuGet/NuGet.Config"
@@ -1543,11 +1543,11 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj": {
-              "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj"
+            "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj": {
+              "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj"
             },
-            "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj": {
-              "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Task0/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj"
+            "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj": {
+              "projectPath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint1/Tyuiu.RuslyakovSV.Sprint1.Task0.V24/Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj"
             }
           }
         }
