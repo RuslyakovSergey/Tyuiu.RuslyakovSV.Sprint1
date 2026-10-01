@@ -23,7 +23,7 @@ namespace Tyuiu.RuslyakovSV.Sprint1.Task2.V7
 
             Console.Write("Введите радиус круга: ");
             int radius = Convert.ToInt32(Console.ReadLine());
-            double area = Math.Round(Math.PI * ds.Sqr(radius), 3);
+            double area = ds.CalculateSquareCircle(radius);
 
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                 *");
