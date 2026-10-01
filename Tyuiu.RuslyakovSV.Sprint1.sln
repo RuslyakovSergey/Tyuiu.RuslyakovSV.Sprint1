@@ -2,11 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{F2922EB6-2499-412C-9048-4721E4A41BD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task0.V24", "Task0\Tyuiu.RuslyakovSV.Sprint1.Task0.V24\Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj", "{0121FC4D-2D58-4C0F-B444-92D5599AACDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task0.V24", "Tyuiu.RuslyakovSV.Sprint1.Task0.V24\Tyuiu.RuslyakovSV.Sprint1.Task0.V24.csproj", "{0121FC4D-2D58-4C0F-B444-92D5599AACDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib", "Task0\Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib\Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj", "{339060D5-B02C-4C67-A471-4C5C9B469377}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib", "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib\Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Lib.csproj", "{339060D5-B02C-4C67-A471-4C5C9B469377}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test", "Task0\Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test\Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test.csproj", "{9073598F-1A14-45F1-8FAA-77B96B3BBC1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test", "Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test\Tyuiu.RuslyakovSV.Sprint1.Task0.V24.Test.csproj", "{9073598F-1A14-45F1-8FAA-77B96B3BBC1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
