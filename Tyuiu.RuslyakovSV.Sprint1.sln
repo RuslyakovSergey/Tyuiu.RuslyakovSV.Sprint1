@@ -18,11 +18,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{3A705DFB-27DE-463A-91D2-B9EA4A643BF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task2.V0", "Tyuiu.RuslyakovSV.Sprint1.Task2.V0\Tyuiu.RuslyakovSV.Sprint1.Task2.V0.csproj", "{4A9ED5D7-3667-49DC-BFA4-BC11E9C7C8C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task2.V7", "Tyuiu.RuslyakovSV.Sprint1.Task2.V7\Tyuiu.RuslyakovSV.Sprint1.Task2.V7.csproj", "{4A9ED5D7-3667-49DC-BFA4-BC11E9C7C8C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task2.V0.Lib", "Tyuiu.RuslyakovSV.Sprint1.Task2.V0.Lib\Tyuiu.RuslyakovSV.Sprint1.Task2.V0.Lib.csproj", "{86ADD240-448A-41DA-A808-904F61A6AA6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task2.V7.Lib", "Tyuiu.RuslyakovSV.Sprint1.Task2.V7.Lib\Tyuiu.RuslyakovSV.Sprint1.Task2.V7.Lib.csproj", "{86ADD240-448A-41DA-A808-904F61A6AA6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task2.V0.Test", "Tyuiu.RuslyakovSV.Sprint1.Task2.V0.Test\Tyuiu.RuslyakovSV.Sprint1.Task2.V0.Test.csproj", "{2BF8651C-A5F8-427C-ACC7-CDE862B8B837}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint1.Task2.V7.Test", "Tyuiu.RuslyakovSV.Sprint1.Task2.V7.Test\Tyuiu.RuslyakovSV.Sprint1.Task2.V7.Test.csproj", "{2BF8651C-A5F8-427C-ACC7-CDE862B8B837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
