@@ -2,11 +2,11 @@
 
 namespace Tyuiu.RuslyakovSV.Sprint1.Task2.V7.Lib
 {
-    public class DataService : ISprint1Task2V0
+    public class DataService : ISprint1Task2V7
     {
-        public int Sqr(int value)
+        public double CalculateSquareCircle(int radius)
         {
-            return value * value;
+            return Math.Round(Math.PI * radius * radius, 3);
         }
     }
 }

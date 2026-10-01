@@ -11,9 +11,9 @@ namespace Tyuiu.RuslyakovSV.Sprint1.Task2.V7.Test
         {
             DataService ds = new DataService();
             int x = 2;
-            var res = ds.Sqr(x);
+            var res = ds.CalculateSquareCircle(x);
 
-            Assert.AreEqual(4, res);
+            Assert.AreEqual(12.566, res);
         }
     }
 }
